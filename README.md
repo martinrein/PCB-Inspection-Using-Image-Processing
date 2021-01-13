@@ -23,8 +23,8 @@ Converting the input image to grayscale is done with the ***rgb2gray()*** functi
 Using the ***imread()*** function, place the desired filename inside the function.
 
 **Note:** 
-- * *img1* * is the variable for the reference/softcopy image.
-- * *img2* * is the variable for the PCB image.
+- *img1* is the variable for the reference/softcopy image.
+- *img2* is the variable for the PCB image.
 
 Examples:
 
